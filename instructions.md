@@ -30,11 +30,11 @@ Requirements are:
     - Their name, music type and an introduction paragraph.
     - A list of their songs/albums including name,release date and cover art.
  - Add a 'Like' feature to your music page
-  - Add an element eg. a button, or an icon next to each song
-  - When a user clicks the element, change something about it to indicate the user has 'liked' the song
-  - When a user clicks again, the element should revert back to the 'unliked' view
-  - Use state to track if a track has been liked or not
-  - You may create additional components to acheive this as you see fit
+   - Add an element eg. a button, or an icon next to each song
+   - When a user clicks the element, change something about it to indicate the user has 'liked' the song
+   - When a user clicks again, the element should revert back to the 'unliked' view
+   - Use state to track if a track has been liked or not
+   - You may create additional components to acheive this as you see fit
 
 - Add a controlled form
   - Create a controlled form into which users can provide data
