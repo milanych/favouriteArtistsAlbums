@@ -14,7 +14,7 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 
 | Resource | Branch |
 | --- | --- |
-| Intro to React Exercises | `react-exercises` |
+| Intro to React Exercises | `intro-to-react-exercises` |
 | React Props Exercises | `react-props-exercises` |
 | React useEffect Exercises | `react-useEffect-exercises` |
 | React Navigation Exercises | `react-navigation-exercises` |
