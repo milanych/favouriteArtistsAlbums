@@ -21,6 +21,7 @@ To access a resource, switch to the relevant branch and read [`instructions.md`]
 | React Testing Exercises | `react-testing-exercises` |
 | React useContext Exercises | `react-useContext-exercises` |
 | Redux Exercises | `redux-exercises` |
+| React End to End Exercises | `react-end-to-end-exercises` |
 | React Native Core Components Exercises | `react-native-core-components` |
 | React Native Navigation Exercises | `react-native-navigation` |
 | React Native Brief | `react-native-brief` |
