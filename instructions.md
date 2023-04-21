@@ -43,7 +43,7 @@ Requirements are:
 **NB: Do not consume any APIs to get the data on your chosen artist - hard code for now!**
 
 ## Bonus
-- Have a go at [styling your app](https://reactjs.org/docs/faq-styling.html)
+- Have a go at [styling your app](https://react.dev/learn#adding-styles)
 
 ## Output
 
