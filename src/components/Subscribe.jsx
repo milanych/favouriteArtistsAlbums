@@ -1,9 +1,8 @@
 import React, {useState} from "react";
-import './App.css';
+import '../css/App.css';
 
 export default function Subscribe() {
   const [inputText, setInputText] = useState(''); 
-  const [submittedText, setSubmittedText] = useState('')
   const handleInput = (e) => setInputText(e.target.value)
   const handleSubmit = (e) => {
     e.preventDefault()

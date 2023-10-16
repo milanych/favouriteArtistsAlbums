@@ -1,6 +1,6 @@
 import React from "react";
-import './App.css';
-import avatar from './img/igor.jpeg'
+import '../css/App.css';
+import avatar from '../img/igor.jpeg'
 
 export default function Header() {
   return (
