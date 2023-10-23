@@ -155,6 +155,8 @@ select {
 
 .avatar {
   margin-top: 2rem;
+  width: 120;
+  height: 120
 }
 
 hr {
@@ -176,4 +178,9 @@ hr {
   margin-top: 0;
   cursor: pointer;
   font-size: 3rem;
+}
+
+.cover {
+  width: 250;
+  height: 250
 }
