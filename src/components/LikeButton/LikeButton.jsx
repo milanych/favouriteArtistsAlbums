@@ -1,16 +1,7 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 export default function likeButton() {
-  const [like, setLike] = useState(); 
-
-    const likeAlbum = (e) => {
-    const heart = e.target.classList;
-    if (heart.contains('liked')) {
-      setLike(heart.remove('liked'))
-    } else {
-      setLike(heart.add('liked'))
-    }
-    }
+  const likeAlbum = (e) => e.target.classList.contains('liked') ? e.target.classList.remove('liked') : e.target.classList.add('liked')
   return (
     <>
     <span className="likeButton" onClick={likeAlbum}>&#9829;</span>
